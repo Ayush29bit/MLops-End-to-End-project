@@ -24,6 +24,8 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
         e: empty file
 
     Returns:
+
+    
         ConfigBox: ConfigBox type
     """
     try:
